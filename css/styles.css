@@ -227,3 +227,12 @@ column-gap: 45px;
   padding-top: 60px;
   padding-bottom: 60px;
 }
+.footer-text {
+  font-family: var(--font-family);
+  padding-left: 500px;
+  font-weight: 700;
+  font-size: 14px;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #fff;
+}
